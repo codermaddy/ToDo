@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="new_task_title_hint">Enter Task Title</string>
+    <string name="new_task_detail_hint">Enter Task Detail</string>
+    <string name="submit_button_label">Add</string>
+    <string name="context_edit_label">Edit</string>
+    <string name="context_del_label">Delete</string>
+</resources>
